@@ -23,4 +23,3 @@ title = "Sublime Text 3 - Projects - Ticketee"
 expect(page).to have_title title
 end
 end
-
